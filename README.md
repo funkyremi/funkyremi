@@ -1,4 +1,4 @@
-**Hi, I'm Rémi 👋**
+[![Header](https://github.com/funkyremi/funkyremi/raw/master/header.png)](https://github.com/funkyremi)
 
 -   🎓 Freelance Full Stack Software Engineer with 10+ years of experience in developing web applications.
 -   🚨 Infosec anthusiast, I learned a lot with `Offensive Security` trainings.
@@ -67,7 +67,7 @@
 ![Jenkins](https://img.shields.io/badge/-Jenkins-000000?style=flat&logo=jenkins)
 ![AzureDevops](https://img.shields.io/badge/-AzureDevops-000000?style=flat&logo=azure-devops)
 
-**Fun fact: I once answered the world's oldest question with a single line of JavaScript**
+**Fun fact: I can answer the world's oldest question with a single line of JavaScript**
 
 [![Code](https://github.com/funkyremi/funkyremi/raw/master/code.png)](https://github.com/funkyremi)
 
