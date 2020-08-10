@@ -3,7 +3,7 @@
 -   🎓 Freelance Full Stack Software Engineer with 10+ years of experience in developing web applications.
 -   🚨 Infosec anthusiast, I learned a lot with `Offensive Security` trainings.
 -   🏡 Connecting everything at home with Apple Homekit, Homebridge, RaspberryPi, Arduino, ESP8266... and now my home is smarter than me 😅
--   👨‍💻 I spend most of my time on ![VisualStudioCode](https://img.shields.io/badge/-VSCode-000000?style=flat&logo=visual-studio-code)
+-   👨‍💻 Apps always open on my laptop ![VisualStudioCode](https://img.shields.io/badge/-VSCode-000000?style=flat&logo=visual-studio-code) ![Safari](https://img.shields.io/badge/-Safari-000000?style=flat&logo=safari) ![iTerm2](https://img.shields.io/badge/-iTerm2-000000?style=flat&logo=gnu-bash) ![Slack](https://img.shields.io/badge/-Slack-000000?style=flat&logo=slack)
 -   📨 Ask me about Web Apps, Cloud, Cybersecurity, Home Automation, or literally anything!
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/remitesta/)
@@ -21,8 +21,9 @@
 **Frontend**
 
 ![React](https://img.shields.io/badge/-React-000000?style=flat&logo=react)
+![Svelte](https://img.shields.io/badge/-Svelte-000000?style=flat&logo=svelte)
 ![Angular](https://img.shields.io/badge/-Angular-000000?style=flat&logo=angular)
-![VueJS](https://img.shields.io/badge/-VueJS-000000?style=flat&logo=vue.js)
+![Vue](https://img.shields.io/badge/-Vue-000000?style=flat&logo=vue.js)
 ![Blaze](https://img.shields.io/badge/-Blaze-000000?style=flat&logo=blaze)
 ![Jquery](https://img.shields.io/badge/-Jquery-000000?style=flat&logo=jquery)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-000000?style=flat&logo=bootstrap)
