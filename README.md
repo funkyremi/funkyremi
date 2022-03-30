@@ -4,7 +4,8 @@
 -   🚨 Infosec enthusiast, I learned a lot with `Offensive Security` trainings.
 -   🏡 Connecting everything at home with Apple Homekit, Homebridge, RaspberryPi, Arduino, ESP8266... and now my home is smarter than me 😅
 -   👨‍💻 Apps always open on my laptop ![VisualStudioCode](https://img.shields.io/badge/-VSCode-000000?style=flat&logo=visual-studio-code) ![Safari](https://img.shields.io/badge/-Safari-000000?style=flat&logo=safari) ![iTerm2](https://img.shields.io/badge/-iTerm2-000000?style=flat&logo=gnu-bash) ![Slack](https://img.shields.io/badge/-Slack-000000?style=flat&logo=slack)
--   📨 Ask me about Web Apps, Cloud, Cybersecurity, Home Automation, or literally anything!
+-   ☑️ Things I do everyday: Read books 📖, Sport 🏀, Meditation 🧘, Guitar 🎸, Onewheel -𐃏-, Magic tricks 🪄...
+-   📨 Ask me about Web Apps, Cloud, Crypto, Cybersecurity, Home Automation, or literally anything!
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/remitesta/)
 
@@ -67,10 +68,6 @@
 ![TravisCI](https://img.shields.io/badge/-TravisCI-000000?style=flat&logo=travis-ci)
 ![Jenkins](https://img.shields.io/badge/-Jenkins-000000?style=flat&logo=jenkins)
 ![AzureDevops](https://img.shields.io/badge/-AzureDevops-000000?style=flat&logo=azure-devops)
-
-**Fun fact: I can answer the world's oldest question with a single line of JavaScript**
-
-[![Code](https://github.com/funkyremi/funkyremi/raw/master/code.png)](https://github.com/funkyremi)
 
 **GitHub Stats**
 
